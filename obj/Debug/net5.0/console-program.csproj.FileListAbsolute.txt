@@ -1,0 +1,16 @@
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\bin\Debug\net5.0\console-program.exe
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\bin\Debug\net5.0\console-program.deps.json
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\bin\Debug\net5.0\console-program.runtimeconfig.json
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\bin\Debug\net5.0\console-program.runtimeconfig.dev.json
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\bin\Debug\net5.0\console-program.dll
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\bin\Debug\net5.0\ref\console-program.dll
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\bin\Debug\net5.0\console-program.pdb
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\console-program.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\console-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\console-program.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\console-program.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\console-program.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\console-program.dll
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\ref\console-program.dll
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\console-program.pdb
+C:\Users\muham\OneDrive\Desktop\console-program\console-program\console-program\obj\Debug\net5.0\console-program.genruntimeconfig.cache
